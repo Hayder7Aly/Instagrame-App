@@ -1,6 +1,8 @@
 
 [Live Demo](https://instagramclone-a4e2c.web.app)
 
+![alt text](public/1.png)
+
 
 # Getting Started with Create React App
 
